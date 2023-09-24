@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TextToVoice</string>
+    <string name="hint_type">Type here</string>
+    <string name="header">Text to voice converter</string>
 </resources>
